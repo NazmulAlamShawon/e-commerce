@@ -110,6 +110,7 @@ export const Card: React.FC<{
           </div>
         )}
         {doc && <Price product={doc} />}
+        <h3>test</h3>
       </div>
     </div>
   )
